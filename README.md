@@ -2,7 +2,7 @@
 - 👀 Language:JavaScript/CSS/HTML/Python/C/R
 - 🌱 Position:Frontend/Backend
 - 💞️ Region:Japan,Tokyo
-- 📫 How to reach me to e-mail beebeebee5959@gmail.com
+- 📫 How to reach me to e-mail tmi00advance@gmail.com
 
 Best Regards.
 
