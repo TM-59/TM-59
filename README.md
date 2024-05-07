@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TM-59
 - 👀 Language:JavaScript/CSS/HTML/Python/C/R
-- 🌱 Position:Frontend/Backend
+- 🌱 Position:Fullstack engineer
 - 💞️ Region:Japan,Tokyo
 - 📫 How to reach me to e-mail tmi00advance@gmail.com
 
