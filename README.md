@@ -11,6 +11,8 @@ TM-59/TM-59 is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=TM-59)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub stats](https://github-readme-stats-alpha-weld-62.vercel.app/api?username=TM-59&count_private=true)
 ![Top Langs](https://github-readme-stats-alpha-weld-62.vercel.app/api/top-langs/?username=TM-59&count_private=true)
 
