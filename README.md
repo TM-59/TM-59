@@ -1,6 +1,5 @@
 
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TM-59&theme=github_dark)
-![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
 
 <!--
 - 👋 Hi, I’m @TM-59
@@ -19,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats-alpha-weld-62.vercel.app/api?username=TM-59&count_private=true)
 ![Top Langs](https://github-readme-stats-alpha-weld-62.vercel.app/api/top-langs/?username=TM-59&count_private=true)
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TM-59&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TM-59&count_private=true)
+-->
+![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
