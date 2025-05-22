@@ -1,4 +1,5 @@
 
+### Profile
 ![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TM-59&theme=github_dark)
 
 <!--
@@ -14,17 +15,22 @@ Best Regards.
 TM-59/TM-59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=TM-59)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Stats
 ![GitHub stats](https://github-readme-stats-alpha-weld-62.vercel.app/api?username=TM-59&count_private=true)
+
+### Languages
 ![Top Langs](https://github-readme-stats-alpha-weld-62.vercel.app/api/top-langs/?username=TM-59&count_private=true)
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TM-59&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TM-59&count_private=true)
 -->
+### Time Card
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
 
-# Activity
+### Activity
 ![Activity](https://ghchart.rshah.org/TM-59)
 
 ![0](https://img.shields.io/badge/-0-%23ebedf0?style=flat-square)
