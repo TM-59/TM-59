@@ -24,19 +24,10 @@ You can click the Preview link to take a look at your changes.
 -->
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
 
-<p>
-  <img
-    src="https://ghchart.rshah.org/1e2330/TM-59"
-    alt="GitHub Contributions (Dark Theme)"
-  />
-</p>
-<summary>📊 Contribution Intensity Legend</summary>
-
-| Color | Contributions      |
-|:-----:|:------------------ |
-| <img src="https://via.placeholder.com/15/ebedf0/ebedf0" alt="0" />       | 0     |
-| <img src="https://via.placeholder.com/15/c6e48b/c6e48b" alt="1–9" />     | 1–9   |
-| <img src="https://via.placeholder.com/15/7bc96f/7bc96f" alt="10–19" />   | 10–19 |
-| <img src="https://via.placeholder.com/15/239a3b/239a3b" alt="20–29" />   | 20–29 |
-| <img src="https://via.placeholder.com/15/196127/196127" alt="≥30" />     | 30-   |
+![Activity](https://ghchart.rshah.org/TM-59)
+![0](https://img.shields.io/badge/-0-%23ebedf0?style=flat-square)
+![1–9](https://img.shields.io/badge/-1%E2%80%939-%23c6e48b?style=flat-square)
+![10–19](https://img.shields.io/badge/-10%E2%80%9319-%237bc96f?style=flat-square)
+![20–29](https://img.shields.io/badge/-20%E2%80%9329-%23239a3b?style=flat-square)
+![30-](https://img.shields.io/badge/-30%E2%80%93-%23196127?style=flat-square)
 
