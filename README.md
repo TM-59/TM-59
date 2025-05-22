@@ -24,14 +24,12 @@ You can click the Preview link to take a look at your changes.
 -->
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
 
-<p align="center">
+<p>
   <img
     src="https://ghchart.rshah.org/1e2330/TM-59"
     alt="GitHub Contributions (Dark Theme)"
   />
 </p>
-
-<details>
 <summary>📊 Contribution Intensity Legend</summary>
 
 | Color | Contributions      |
@@ -42,4 +40,3 @@ You can click the Preview link to take a look at your changes.
 | <img src="https://via.placeholder.com/15/239a3b/239a3b" alt="20–29" />   | 20–29 |
 | <img src="https://via.placeholder.com/15/196127/196127" alt="≥30" />     | 30-   |
 
-</details>
