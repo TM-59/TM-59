@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TM-59&count_private=true)
 -->
 ![Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TM-59&theme=github_dark&utcOffset=9)
+
+![Activity Graph](https://ghchart.rshah.org/TM-59)
