@@ -84,3 +84,16 @@ Open-source toys you operate in a terminal. Each one checks its numerical result
 </tr></table>
 
 <sub>Updated 2026-10-17 07:27 JST</sub>
+
+<!-- skills:start -->
+
+## Skills / スキル
+
+Agent Skills (`SKILL.md`) for the languages, technologies and certifications used across this account: defaults, verification steps and pitfalls from real work. Format and rules: [spec](docs/spec.md) · [architecture](docs/architecture.md).
+<sub>各言語・技術要素・資格を使いこなすための SKILL.md。既定の進め方・検証・落とし穴をまとめています。</sub>
+
+### Languages / 言語
+
+[Bash](skills/languages/bash/SKILL.md) · [C](skills/languages/c/SKILL.md) · [C++](skills/languages/cpp/SKILL.md) · [C# on .NET](skills/languages/csharp/SKILL.md) · [Go](skills/languages/go/SKILL.md) · [JavaScript](skills/languages/javascript/SKILL.md) · [Python](skills/languages/python/SKILL.md) · [TypeScript](skills/languages/typescript/SKILL.md)
+
+<!-- skills:end -->
