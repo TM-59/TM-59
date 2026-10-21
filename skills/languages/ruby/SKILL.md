@@ -43,7 +43,7 @@ Rules like "every Monday", "2nd and 4th Wednesday", "every other Friday starting
 ## Pitfalls
 
 - **`Date.today` vs `Time.zone.today`:** the first uses the system zone, the second the Rails zone. Use the Rails one consistently.
-- **Strong parameters:** permit attributes explicitly; mass assignment of unpermitted params raises in development but may be silently dropped in configurations that log instead.
+- **Strong parameters:** passing raw `params` to `create`/`update` raises `ForbiddenAttributesError`, but attributes missing from `permit` are dropped with only a log line by default — a field that "does not save" is usually a missing `permit`.
 - **N+1 queries:** use `includes`; the Bullet gem or `strict_loading` helps catch them.
 - **Credentials per environment** need their own key; missing keys in production fail at boot, which is better than failing at first use.
 - **Native gems** (e.g. for SQLite or image processing) must be compiled for the image's platform; build inside the same base image you run.
