@@ -17,7 +17,7 @@ Default: current R release, `renv` for package versions, scripts run with `Rscri
 
 - Build a complete monthly index first; missing months must be explicit `NA`, not absent rows, or seasonal lags shift.
 - `ts(x, frequency = 12, start = c(year, month))`, then `stl(x, s.window = "periodic")` for trend + seasonal + remainder (needs at least two full years and no `NA` — impute or trim first).
-- A centred 12-month moving average (`stats::filter(x, rep(1/12, 12), sides = 2)`) shows trend without seasonality.
+- A centred 2×12 moving average (`stats::filter(x, c(1/24, rep(1/12, 11), 1/24), sides = 2)`) shows trend without seasonality; a plain 12-term window is off-centre by half a month.
 - Flag outliers on the **remainder**, not the raw series (e.g. |remainder| > 3 × MAD); a winter peak is not an outlier.
 - Report each flag with the month, value, expected value and the rule that fired.
 
