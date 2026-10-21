@@ -94,6 +94,6 @@ Agent Skills (`SKILL.md`) for the languages, technologies and certifications use
 
 ### Languages / 言語
 
-[Bash](skills/languages/bash/SKILL.md) · [C](skills/languages/c/SKILL.md) · [C++](skills/languages/cpp/SKILL.md) · [C# on .NET](skills/languages/csharp/SKILL.md) · [Go](skills/languages/go/SKILL.md) · [JavaScript](skills/languages/javascript/SKILL.md) · [Python](skills/languages/python/SKILL.md) · [TypeScript](skills/languages/typescript/SKILL.md)
+[Bash](skills/languages/bash/SKILL.md) · [C](skills/languages/c/SKILL.md) · [C++](skills/languages/cpp/SKILL.md) · [C# on .NET](skills/languages/csharp/SKILL.md) · [Dart and Flutter](skills/languages/dart/SKILL.md) · [Elixir, Phoenix and OTP](skills/languages/elixir/SKILL.md) · [Go](skills/languages/go/SKILL.md) · [Java](skills/languages/java/SKILL.md) · [JavaScript](skills/languages/javascript/SKILL.md) · [Julia](skills/languages/julia/SKILL.md) · [PHP with Laravel](skills/languages/php/SKILL.md) · [Python](skills/languages/python/SKILL.md) · [Ruby on Rails](skills/languages/ruby/SKILL.md) · [Rust](skills/languages/rust/SKILL.md) · [TypeScript](skills/languages/typescript/SKILL.md) · [Visual Basic .NET](skills/languages/vbnet/SKILL.md)
 
 <!-- skills:end -->
