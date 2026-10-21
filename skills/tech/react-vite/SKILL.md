@@ -45,7 +45,7 @@ A client-rendered SPA ships an almost empty `index.html`. Crawlers, link preview
 1. `npm run build` (type-check + bundle) succeeds.
 2. `npm test` passes.
 3. `npm run preview` and view the page with JavaScript disabled: the static content is still there.
-4. Check bundle size and the largest chunks (`vite build --report` via a visualiser plugin) after adding dependencies.
+4. Check bundle size and the largest chunks (with a bundle visualiser such as `rollup-plugin-visualizer`) after adding dependencies.
 
 ## Pitfalls
 
