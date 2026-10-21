@@ -96,4 +96,8 @@ Agent Skills (`SKILL.md`) for the languages, technologies and certifications use
 
 [Bash](skills/languages/bash/SKILL.md) · [C](skills/languages/c/SKILL.md) · [C++](skills/languages/cpp/SKILL.md) · [C# on .NET](skills/languages/csharp/SKILL.md) · [Dart and Flutter](skills/languages/dart/SKILL.md) · [Elixir, Phoenix and OTP](skills/languages/elixir/SKILL.md) · [Go](skills/languages/go/SKILL.md) · [Java](skills/languages/java/SKILL.md) · [JavaScript](skills/languages/javascript/SKILL.md) · [Julia](skills/languages/julia/SKILL.md) · [Kotlin (JVM)](skills/languages/kotlin/SKILL.md) · [PHP with Laravel](skills/languages/php/SKILL.md) · [Python](skills/languages/python/SKILL.md) · [R](skills/languages/r/SKILL.md) · [Ruby on Rails](skills/languages/ruby/SKILL.md) · [Rust](skills/languages/rust/SKILL.md) · [Swift (packages and command-line tools)](skills/languages/swift/SKILL.md) · [TypeScript](skills/languages/typescript/SKILL.md) · [Visual Basic .NET](skills/languages/vbnet/SKILL.md) · [x86-64 assembly (Linux, no libc)](skills/languages/x86-64-assembly/SKILL.md)
 
+### Technologies / 技術
+
+[Azure Static Web Apps](skills/tech/azure-static-web-apps/SKILL.md) · [Canvas 2D games](skills/tech/canvas-2d/SKILL.md) · [Cloudflare Pages (+ Functions, D1)](skills/tech/cloudflare-pages/SKILL.md) · [Raylib-cs (C# desktop games)](skills/tech/raylib-cs/SKILL.md) · [raylib + Emscripten](skills/tech/raylib-emscripten/SKILL.md) · [React + Vite](skills/tech/react-vite/SKILL.md) · [Terraform](skills/tech/terraform/SKILL.md) · [Three.js](skills/tech/threejs/SKILL.md) · [Unity](skills/tech/unity/SKILL.md)
+
 <!-- skills:end -->
