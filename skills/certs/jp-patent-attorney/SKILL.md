@@ -18,7 +18,7 @@ description: Use when preparing for the Japanese patent attorney examination (�
 
 短答合格・論文必須合格には一定期間の免除、論文選択には条件つきの免除がある。免除は**願書で申請**する(自動ではない)。
 
-一次情報: 特許庁「弁理士試験」 https://www.jpo.go.jp/news/benrishi/shiken-joho/index.html 、条文は e-Gov 法令検索 https://laws.e-gov.go.jp/ 、制度趣旨は特許庁の「工業所有権法(産業財産権法)逐条解説」。
+一次情報: 特許庁「弁理士試験の案内」 https://www.jpo.go.jp/news/benrishi/shiken-annai.html と「試験問題」 https://www.jpo.go.jp/news/benrishi/shiken-mondai/index.html 、条文は e-Gov 法令検索 https://laws.e-gov.go.jp/ 、制度趣旨は特許庁の「工業所有権法(産業財産権法)逐条解説」。
 
 ## 学び方(順序)
 
