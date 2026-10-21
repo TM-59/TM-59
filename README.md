@@ -102,6 +102,6 @@ Agent Skills (`SKILL.md`) for the languages, technologies and certifications use
 
 ### Certifications / 資格
 
-[電験三種(第三種電気主任技術者試験)](skills/certs/jp-electrical-engineer-3/SKILL.md) · [弁理士試験](skills/certs/jp-patent-attorney/SKILL.md) · [情報処理安全確保支援士試験(SC)](skills/certs/jp-registered-security-specialist/SKILL.md) · [統計検定 2 級](skills/certs/jp-stats-grade-2/SKILL.md) · [統計検定 3 級](skills/certs/jp-stats-grade-3/SKILL.md) · [統計検定 準 1 級](skills/certs/jp-stats-grade-pre1/SKILL.md)
+[行政書士試験](skills/certs/jp-administrative-scrivener/SKILL.md) · [電験三種(第三種電気主任技術者試験)](skills/certs/jp-electrical-engineer-3/SKILL.md) · [社会保険労務士試験(社労士)](skills/certs/jp-labor-social-security-attorney/SKILL.md) · [弁理士試験](skills/certs/jp-patent-attorney/SKILL.md) · [技術士 第一次試験(情報工学部門を中心に)](skills/certs/jp-pe-first/SKILL.md) · [技術士 第二次試験(情報工学部門)](skills/certs/jp-pe-second-info/SKILL.md) · [宅地建物取引士試験(宅建)](skills/certs/jp-real-estate-broker/SKILL.md) · [情報処理安全確保支援士試験(SC)](skills/certs/jp-registered-security-specialist/SKILL.md) · [中小企業診断士試験](skills/certs/jp-sme-consultant/SKILL.md) · [統計検定 2 級](skills/certs/jp-stats-grade-2/SKILL.md) · [統計検定 3 級](skills/certs/jp-stats-grade-3/SKILL.md) · [統計検定 準 1 級](skills/certs/jp-stats-grade-pre1/SKILL.md)
 
 <!-- skills:end -->
