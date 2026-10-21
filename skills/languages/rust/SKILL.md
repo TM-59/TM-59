@@ -35,7 +35,7 @@ struct Args {
 For tiered tariffs (first N units at one price, next M at another, plus a fixed charge and an adjustment per unit):
 
 - Represent prices as integers of the smallest unit (or a decimal crate such as `rust_decimal`) — not `f64`.
-- Model tiers as a sorted `Vec<(upper_bound: Option<u32>, price_per_unit)>` and compute with one loop; test boundaries at exactly the tier limits.
+- Model tiers as a sorted `Vec<(Option<u32>, i64)>` (upper bound, price per unit; `None` = no limit) and compute with one loop; test boundaries at exactly the tier limits.
 - Compare plans by evaluating each across a range of usages and reporting the crossover points, which is what a person actually wants to know.
 
 ## Errors
