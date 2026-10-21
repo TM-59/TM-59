@@ -23,7 +23,7 @@ Primary sources: ISACA AAISM page and exam content outline (https://www.isaca.or
 | NIST AI Risk Management Framework (Govern, Map, Measure, Manage) and its generative AI profile | Risk process vocabulary |
 | EU AI Act | Risk tiers (prohibited, high-risk, limited, minimal), obligations of providers and deployers, general-purpose AI |
 | ISO/IEC 42001 | AI management system structure (policy, roles, risk treatment, continual improvement) |
-| OWASP Top 10 for LLM Applications | Prompt injection, insecure output handling, training data poisoning, excessive agency, sensitive information disclosure |
+| OWASP Top 10 for LLM Applications (check the edition; names changed between 2023 and 2025) | Prompt injection, sensitive information disclosure, supply chain, data and model poisoning, improper output handling, excessive agency |
 | MITRE ATLAS | Adversarial tactics and techniques against ML systems |
 | National AI guidelines (e.g. Japan's AI Guidelines for Business) | Governance expectations for developers, providers and users |
 
