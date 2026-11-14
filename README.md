@@ -25,6 +25,23 @@
 - **AI & ML:** local RAG · MLflow · Databricks Free Edition / 検索・モデル運用
 - **Performance:** profiling & regression checks / 描画・読み込み改善
 
+## Local document retrieval / ローカル文書検索
+
+Start with scoped evidence, then check the current source. / 範囲を絞って根拠を探し、現在の原文と照合。
+
+```mermaid
+flowchart LR
+  A["Owned documents / 自分の文書"] --> B["Local embeddings / 端末内で埋め込み"]
+  B --> C["Local index / 端末内の索引"]
+  Q["Question + scope / 問いと範囲"] --> C
+  C --> D["Source file + lines / 根拠のファイルと行"]
+  D --> E["Verify current source / 現在の原文を確認"]
+```
+
+- **Evaluation:** sqlite-vec / pgvector and bge-m3 / Qwen3 Embedding, compared with the same documents and questions. / 同じ文書・問いでDBとモデルを比較。
+- **Operation:** hash-based incremental updates, a daily timer and source freshness checks. / 差分更新・日次実行・原文の更新確認。
+- **Privacy:** documents, embeddings and indexes stay on the PC. / 文書・埋め込み・索引はPC内で保持。
+
 ## Projects in progress / 進行中のプロジェクト
 
 - Web & APIs / Web・API
@@ -55,7 +72,7 @@ Interactive models, tested against theory. / 操作して観察、理論と照�
 <td width="50%" valign="top"><a href="https://soraniwa.cloud-tm.com/"><img src="https://github.com/TM-59/TM-59/releases/download/showcase/profile-sound.png" alt="Soraniwa" width="420"></a><br><strong><a href="https://soraniwa.cloud-tm.com/">Soraniwa</a></strong> · Ambient audio / 環境音ミキサー</td>
 </tr></table>
 
-<sub>Updated 2026-11-01 02:16 JST</sub>
+<sub>Updated 2026-11-15 04:02 JST</sub>
 
 <details>
 <summary>Skills / スキル — 71 guides</summary>
