@@ -25,6 +25,20 @@
 - **AI & ML:** local RAG · MLflow · Databricks Free Edition / 検索・モデル運用
 - **Performance:** profiling & regression checks / 描画・読み込み改善
 
+## Languages & activity / 言語と活動
+
+Updated daily from owned repositories. / 所有リポジトリから毎日更新。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-assets/languages-dark.svg">
+  <img src="profile-assets/languages-light.svg" alt="Languages by code size" width="495">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-assets/contrib-3d-dark.svg">
+  <img src="profile-assets/contrib-3d-light.svg" alt="3D contribution graph" width="840">
+</picture>
+
 ## Local document retrieval / ローカル文書検索
 
 Start with scoped evidence, then check the current source. / 範囲を絞って根拠を探し、現在の原文と照合。
